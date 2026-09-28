@@ -52,15 +52,27 @@
 <br>
 
 <!-- SECTION: ABOUT ME -->
-<h3 id="about-me"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px" align="center"> About Me</h3>
+<h3 id="about-me">⚡ About Me</h3>
 
-> 🟢 **Status:** Building AI & Systems • Open for Research & Technical Collaborations
-
-- 🎓 **Education**: B.Tech in Computer Science at **SRM University, AP**.
-- 🔬 **Research Focus**: Transformer model compression, **CoFi structured pruning**, and parameter-efficient fine-tuning via **QA-LoRA**.
-- ⚡ **Engineering**: Full-stack AI systems with **Python**, **FastAPI**, **React 19**, **TypeScript**, and **MongoDB**.
-- 🌐 **Real-World Domains**: Climate intelligence (SIH 2026 for MoES/IMD), railway traffic planning, and municipal telemetry.
-- 🎮 **Graphics & Simulation**: Interactive browser 3D simulations utilizing **Three.js** and **WebGL**.
+<table width="100%">
+  <tr>
+    <td width="38%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Code Stream Animation" />
+      <br><br>
+      <img src="https://img.shields.io/badge/System-ONLINE%20%E2%97%8F-0284c7?style=flat-square" alt="Status Online" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Systems-10b981?style=flat-square" alt="Focus" />
+    </td>
+    <td width="62%" valign="top">
+      <h4>💻 Engineering Dossier</h4>
+      <p><b>🎓 Education:</b> B.Tech Computer Science @ <b>SRM University, AP</b></p>
+      <p><b>🔬 Research:</b> Transformer Compression • <b>CoFi</b> Pruning • <b>QA-LoRA</b> Fine-Tuning</p>
+      <p><b>⚡ Core Stack:</b> Python • PyTorch • FastAPI • React 19 • TypeScript • MongoDB</p>
+      <p><b>🌐 Real-World AI:</b> Climate Downscaling (SIH 2026 for MoES/IMD) • Railways Telemetry</p>
+      <p><b>🎮 Visual Compute:</b> Real-Time WebGL & Three.js 3D Simulations</p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -74,14 +86,45 @@
 <h3 id="what-i-work-on">🎯 What I Work On</h3>
 
 <div align="center">
-
-| `01` **Applied AI & Deep Learning** | `02` **Efficient AI & Model Compression** |
-|:---|:---|
-| Model training, quantitative validation, and applied ML pipelines for complex physical and spatial data. | Transformer compression, **CoFi** structured pruning, and **QA-LoRA** parameter-efficient adaptation. |
-| `03` **Full-Stack Systems** | `04` **Mission-Critical AI** |
-| Scalable **FastAPI** backends, RESTful microservices, and typed **React 19** telemetry dashboards. | Applying machine learning to climate forecasting, railway operations, and municipal flood telemetry. |
-
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="360" alt="Holographic Core Animation" />
 </div>
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4><img src="https://img.shields.io/badge/01-AI%20%26%20Deep%20Learning-0284c7?style=flat-square" alt="01 AI" /></h4>
+      <ul>
+        <li>Model training, loss formulation, and quantitative evaluation.</li>
+        <li>Applied machine learning pipelines for complex spatial and atmospheric data.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4><img src="https://img.shields.io/badge/02-Efficient%20AI%20%26%20Compression-7c3aed?style=flat-square" alt="02 Efficient AI" /></h4>
+      <ul>
+        <li><b>CoFi</b> structured coarse-to-fine pruning for Transformers.</li>
+        <li><b>QA-LoRA</b> parameter-efficient fine-tuning under quantization limits.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><img src="https://img.shields.io/badge/03-Full--Stack%20Systems-10b981?style=flat-square" alt="03 Systems" /></h4>
+      <ul>
+        <li>Asynchronous <b>FastAPI</b> microservices, REST APIs, and MongoDB schemas.</li>
+        <li>Reactive <b>React 19</b> & <b>TypeScript</b> real-time telemetry dashboards.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4><img src="https://img.shields.io/badge/04-Mission--Critical%20AI-f59e0b?style=flat-square" alt="04 Impact" /></h4>
+      <ul>
+        <li>Monsoon rainfall forecast downscaling (SIH 2026 for MoES / IMD).</li>
+        <li>Indian Railways track block scheduling and municipal flood telemetry.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br>
 
