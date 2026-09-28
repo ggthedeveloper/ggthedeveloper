@@ -48,64 +48,45 @@
 <!-- SECTION: ABOUT ME -->
 <h3 id="about-me">⚡ About Me</h3>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2400&pause=900&color=38BDF8&background=070E1D&center=true&vCenter=true&width=800&height=38&lines=%E2%96%B8+gaurav%40ai-lab%3A~%24+.%2Finit_profile+--mode%3Dproduction;%E2%9C%94+Education%3A+B.Tech+Computer+Science+%40+SRM+University%2C+AP;%E2%9C%94+Research%3A+Transformer+Compression+(CoFi+Pruning+%26+QA-LoRA);%E2%9C%94+Stack%3A+Python+%E2%80%A2+PyTorch+%E2%80%A2+FastAPI+%E2%80%A2+React+19+%E2%80%A2+TypeScript;%E2%9C%94+Real-World+AI%3A+Climate+Downscaling+(MoES%2FIMD)+%26+Railways" alt="Interactive Terminal Runner" />
+</p>
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th style="background-color: #0b132b; border: 1px solid #1e293b; border-bottom: 2px solid #38bdf8; padding: 12px;" align="left">
-        <span style="color: #ef4444;">●</span>&nbsp;<span style="color: #f59e0b;">●</span>&nbsp;<span style="color: #10b981;">●</span>
-        &nbsp;&nbsp;<code>gaurav@ai-lab:~$ ./display_dossier.sh --interactive</code>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="background-color: #070e1d; border: 1px solid #1e293b; padding: 18px;" align="center">
-        <!-- LIVE TERMINAL RUNNER -->
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2400&pause=900&color=38BDF8&background=070E1D&center=true&vCenter=true&width=800&height=38&lines=%E2%96%B8+gaurav%40ai-lab%3A~%24+.%2Finit_profile+--mode%3Dproduction;%E2%9C%94+Education%3A+B.Tech+Computer+Science+%40+SRM+University%2C+AP;%E2%9C%94+Research%3A+Transformer+Compression+(CoFi+Pruning+%26+QA-LoRA);%E2%9C%94+Stack%3A+Python+%E2%80%A2+PyTorch+%E2%80%A2+FastAPI+%E2%80%A2+React+19+%E2%80%A2+TypeScript;%E2%9C%94+Real-World+AI%3A+Climate+Downscaling+(MoES%2FIMD)+%26+Railways" alt="Interactive Terminal Runner" />
-        
-        <br><br>
+<details open>
+<summary><b>🎓 Academic Identity & Degree</b></summary>
+<br>
+Pursuing <b>B.Tech in Computer Science and Engineering</b> at <b>SRM University, AP</b> with rigorous focus on algorithms, systems design, and mathematical foundations of deep learning.
+</details>
 
-        <!-- INTERACTIVE TELEMETRY TABS -->
-        <details open>
-          <summary><b>🎓 Academic Identity & Degree</b></summary>
-          <p align="left">Pursuing <b>B.Tech in Computer Science and Engineering</b> at <b>SRM University, AP</b> with rigorous focus on algorithms, systems design, and mathematical foundations of deep learning.</p>
-        </details>
+<details open>
+<summary><b>🔬 Research Core: Efficient Deep Learning</b></summary>
+<br>
+Investigating parameter-efficient adaptation and model compression for large architectures. Hands-on research experience with <b>CoFi (Coarse-to-Fine) structured pruning</b> and <b>QA-LoRA (Quantization-Aware Low-Rank Adaptation)</b> for resource-constrained inference.
+</details>
 
-        <details open>
-          <summary><b>🔬 Research Core: Efficient Deep Learning</b></summary>
-          <p align="left">Investigating parameter-efficient adaptation and model compression for large architectures. Hands-on research experience with <b>CoFi (Coarse-to-Fine) structured pruning</b> and <b>QA-LoRA (Quantization-Aware Low-Rank Adaptation)</b> for resource-constrained inference.</p>
-        </details>
+<details open>
+<summary><b>⚡ Production Engineering & Full-Stack Systems</b></summary>
+<br>
+Architecting end-to-end applications from asynchronous <b>FastAPI</b> microservices and <b>MongoDB</b> pipelines to reactive, high-performance <b>React 19</b> & <b>TypeScript</b> user interfaces.
+</details>
 
-        <details open>
-          <summary><b>⚡ Production Engineering & Full-Stack Systems</b></summary>
-          <p align="left">Architecting end-to-end applications from asynchronous <b>FastAPI</b> microservices and <b>MongoDB</b> pipelines to reactive, high-performance <b>React 19</b> & <b>TypeScript</b> user interfaces.</p>
-        </details>
+<details open>
+<summary><b>🌐 Mission-Critical AI & Visual Simulation</b></summary>
+<br>
+Building domain-tailored AI solutions: meteorological rainfall downscaling for <b>Ministry of Earth Sciences / IMD</b> (SIH 2026), automated block planning for <b>Indian Railways</b>, and browser-based 3D physics engines via <b>Three.js</b> and <b>WebGL</b>.
+</details>
 
-        <details open>
-          <summary><b>🌐 Mission-Critical AI & Visual Simulation</b></summary>
-          <p align="left">Building domain-tailored AI solutions: meteorological rainfall downscaling for <b>Ministry of Earth Sciences / IMD</b> (SIH 2026), automated block planning for <b>Indian Railways</b>, and browser-based 3D physics engines via <b>Three.js</b> and <b>WebGL</b>.</p>
-        </details>
+<br>
 
-        <br>
-
-        <!-- STATUS HUD PILLS -->
-        <p align="center">
-          <img src="https://img.shields.io/badge/System-ONLINE%20%E2%97%8F-0284c7?style=flat-square" alt="Status Online" />
-          &nbsp;
-          <img src="https://img.shields.io/badge/Role-AI%2FML%20%2B%20Systems-10b981?style=flat-square" alt="Role" />
-          &nbsp;
-          <img src="https://img.shields.io/badge/Focus-Model%20Compression-7c3aed?style=flat-square" alt="Focus" />
-          &nbsp;
-          <img src="https://img.shields.io/badge/Location-India%20(IST)-f59e0b?style=flat-square" alt="Location" />
-        </p>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/System-ONLINE%20%E2%97%8F-0284c7?style=flat-square" alt="Status Online" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Role-AI%2FML%20%2B%20Systems-10b981?style=flat-square" alt="Role" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Model%20Compression-7c3aed?style=flat-square" alt="Focus" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-India%20(IST)-f59e0b?style=flat-square" alt="Location" />
+</p>
 
 <br>
 
