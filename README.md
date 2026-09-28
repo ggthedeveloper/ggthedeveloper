@@ -14,9 +14,9 @@
 <a href="https://github.com/ggthedeveloper">
   <img src="https://img.shields.io/badge/SRM%20University%2C%20AP-B.Tech%20CSE-0284c7?style=for-the-badge&logo=googlescholar&logoColor=white" alt="SRM University AP" />
 </a>
-<!-- <a href="https://github.com/ggthedeveloper/VarshaPurvanumanAI">
+<a href="https://github.com/ggthedeveloper/VarshaPurvanumanAI">
   <img src="https://img.shields.io/badge/SIH%202026-Project%20Developer-f59e0b?style=for-the-badge&logo=target&logoColor=white" alt="SIH 2026 Project" />
-</a> -->
+</a>
 <a href="https://github.com/ggthedeveloper">
   <img src="https://img.shields.io/badge/GitHub-PRO-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pro" />
 </a>
