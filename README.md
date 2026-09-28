@@ -46,27 +46,31 @@
 <br>
 
 <!-- SECTION: ABOUT ME -->
-<h3 id="about-me">⚡ About Me</h3>
+<h3 id="about-me"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" align="center"> About Me</h3>
 
-<table width="100%">
-  <tr>
-    <td width="38%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Code Stream Animation" />
-      <br><br>
-      <img src="https://img.shields.io/badge/System-ONLINE%20%E2%97%8F-0284c7?style=flat-square" alt="Status Online" />
-      &nbsp;
-      <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Systems-10b981?style=flat-square" alt="Focus" />
-    </td>
-    <td width="62%" valign="top">
-      <h4>💻 Engineering Dossier</h4>
-      <p><b>🎓 Education:</b> B.Tech Computer Science @ <b>SRM University, AP</b></p>
-      <p><b>🔬 Research:</b> Transformer Compression • <b>CoFi</b> Pruning • <b>QA-LoRA</b> Fine-Tuning</p>
-      <p><b>⚡ Core Stack:</b> Python • PyTorch • FastAPI • React 19 • TypeScript • MongoDB</p>
-      <p><b>🌐 Real-World AI:</b> Climate Downscaling (SIH 2026 for MoES/IMD) • Railways Telemetry</p>
-      <p><b>🎮 Visual Compute:</b> Real-Time WebGL & Three.js 3D Simulations</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=17&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=36&lines=Building+intelligent+systems+at+the+intersection+of+AI+%26+software;Researching+Transformer+compression+%26+efficient+model+adaptation;Developing+impactful+solutions+for+climate+%26+real-world+infrastructure;Passionate+about+bridging+deep+learning+research+and+production" alt="About Me Typing Animation" />
+</p>
+
+> ### 💡 *"Bridging the gap between deep learning research and scalable, real-world engineering."*
+
+I am an **AI/ML Engineer and Full-Stack Developer** pursuing my B.Tech in Computer Science and Engineering at **SRM University, AP**. My passion lies in taking state-of-the-art machine learning research from theory into resilient, production-ready systems.
+
+- 🎓 **Academic Foundation** — Computer Science & Engineering undergraduate at **SRM University, AP**
+- 🔬 **Efficient AI & Compression** — Researching **Transformer model compression**, **CoFi structured pruning**, and **QA-LoRA (Quantization-Aware Low-Rank Adaptation)**
+- ⚡ **Full-Stack Engineering** — Architecting robust end-to-end applications with **FastAPI**, **React 19**, **TypeScript**, and **MongoDB**
+- 🌐 **National Impact Initiatives** — Developing mission-critical AI for monsoon rainfall forecast downscaling (**SIH 2026 / MoES**) and railway corridor scheduling (**Indian Railways**)
+- 🎮 **Visual & Scientific Compute** — Crafting interactive browser simulations with **Three.js** and **WebGL**
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Actively%20Building%20%26%20Researching-10b981?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%2B%20Full--Stack-0284c7?style=for-the-badge&logo=target&logoColor=white" alt="Focus" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-India%20(IST)-f59e0b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+</p>
 
 <br>
 
@@ -75,7 +79,6 @@
 </div>
 
 <br>
-
 
 <!-- SECTION: WHAT I WORK ON -->
 <h3 id="what-i-work-on">🎯 What I Work On</h3>
@@ -288,7 +291,7 @@
 
 <p align="center">
   <a href="https://github.com/ggthedeveloper">
-    <img src="https://streak-stats.demolab.com/?user=ggthedeveloper&theme=tokyonight&hide_border=true&background=070e1d&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&timezone=Asia/Kolkata" alt="GitHub Streak Stats (Real-Time IST Sync)" />
+    <img src="./profile/streak.svg" alt="GitHub Streak Stats (Real-Time IST Sync)" />
   </a>
   <br><br>
   <a href="https://github.com/ggthedeveloper?tab=overview">
