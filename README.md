@@ -48,44 +48,100 @@
 <!-- SECTION: ABOUT ME -->
 <h3 id="about-me">⚡ About Me</h3>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-gaurav__profile.ts-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Language-TypeScript%205.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Build-Passing%20%E2%9C%94-10b981?style=for-the-badge&logo=githubactions&logoColor=white" alt="Build Passing" />
+</div>
+
+<br>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2400&pause=900&color=38BDF8&background=070E1D&center=true&vCenter=true&width=800&height=38&lines=%E2%96%B8+gaurav%40ai-lab%3A~%24+.%2Finit_profile+--mode%3Dproduction;%E2%9C%94+Education%3A+B.Tech+Computer+Science+%40+SRM+University%2C+AP;%E2%9C%94+Research%3A+Transformer+Compression+(CoFi+Pruning+%26+QA-LoRA);%E2%9C%94+Stack%3A+Python+%E2%80%A2+PyTorch+%E2%80%A2+FastAPI+%E2%80%A2+React+19+%E2%80%A2+TypeScript;%E2%9C%94+Real-World+AI%3A+Climate+Downscaling+(MoES%2FIMD)+%26+Railways" alt="Interactive Terminal Runner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2400&pause=800&color=38BDF8&background=070E1D&center=true&vCenter=true&width=800&height=36&lines=%E2%9E%9C+VS+Code+Terminal%3A+Compiling+gaurav_profile.ts...;%E2%9C%94+Compiled+successfully.+0+errors%2C+0+warnings.;%E2%9E%9C+Loaded+Modules%3A+Transformer+Compression+(CoFi+%26+QA-LoRA);%E2%9E%9C+Full-Stack+API%3A+FastAPI+%2B+React+19+Telemetry+Running" alt="VS Code Console Runner" />
 </p>
 
-<details open>
-<summary><b>🎓 Academic Identity & Degree</b></summary>
-<br>
-Pursuing <b>B.Tech in Computer Science and Engineering</b> at <b>SRM University, AP</b> with rigorous focus on algorithms, systems design, and mathematical foundations of deep learning.
-</details>
+```typescript
+// 🔴 🟡 🟢  gaurav_profile.ts — Visual Studio Code Editor
 
-<details open>
-<summary><b>🔬 Research Core: Efficient Deep Learning</b></summary>
-<br>
-Investigating parameter-efficient adaptation and model compression for large architectures. Hands-on research experience with <b>CoFi (Coarse-to-Fine) structured pruning</b> and <b>QA-LoRA (Quantization-Aware Low-Rank Adaptation)</b> for resource-constrained inference.
-</details>
+import { Developer, Researcher } from "@srm-ap/cse";
+import { PruningTechnique, Quantization } from "@efficient-ml/compression";
 
-<details open>
-<summary><b>⚡ Production Engineering & Full-Stack Systems</b></summary>
-<br>
-Architecting end-to-end applications from asynchronous <b>FastAPI</b> microservices and <b>MongoDB</b> pipelines to reactive, high-performance <b>React 19</b> & <b>TypeScript</b> user interfaces.
-</details>
+export interface EngineerProfile {
+  readonly name: string;
+  readonly role: string;
+  readonly location: string;
+  education: {
+    institution: string;
+    degree: string;
+    status: string;
+  };
+  researchCore: {
+    domain: string;
+    specialization: string[];
+    frameworks: string[];
+  };
+  productionStack: {
+    backend: string[];
+    frontend: string[];
+    telemetryAndDatabases: string[];
+  };
+  impactInitiatives: string[];
+  availability: "OPEN_TO_COLLABORATION" | "EXPLORING_RESEARCH";
+}
 
-<details open>
-<summary><b>🌐 Mission-Critical AI & Visual Simulation</b></summary>
-<br>
-Building domain-tailored AI solutions: meteorological rainfall downscaling for <b>Ministry of Earth Sciences / IMD</b> (SIH 2026), automated block planning for <b>Indian Railways</b>, and browser-based 3D physics engines via <b>Three.js</b> and <b>WebGL</b>.
-</details>
+export const gauravGautam: EngineerProfile = {
+  name: "Gaurav Gautam",
+  role: "AI/ML Engineer • Full-Stack Developer • AI Research Enthusiast",
+  location: "India (IST)",
+
+  education: {
+    institution: "SRM University, AP",
+    degree: "B.Tech in Computer Science and Engineering",
+    status: "Active Scholar",
+  },
+
+  researchCore: {
+    domain: "Efficient Deep Learning & Transformer Compression",
+    specialization: [
+      "CoFi (Coarse-to-Fine) Structured Pruning",
+      "QA-LoRA (Quantization-Aware Low-Rank Adaptation)",
+      "Parameter-Efficient Fine-Tuning (PEFT)",
+    ],
+    frameworks: ["PyTorch", "Hugging Face Transformers", "CUDA"],
+  },
+
+  productionStack: {
+    backend: ["Python", "FastAPI", "Node.js", "Express", "RESTful Architecture"],
+    frontend: ["React 19", "TypeScript", "JavaScript (ESNext)", "Tailwind CSS"],
+    telemetryAndDatabases: ["MongoDB", "MySQL", "Three.js / WebGL Simulation"],
+  },
+
+  impactInitiatives: [
+    "Monsoon Precipitation Downscaling (SIH 2026 for MoES / IMD)",
+    "Indian Railways Automated Track Block Planning & Optimization",
+    "DrainSenseAI: Municipal Drainage Telemetry & Anomaly Detection",
+  ],
+
+  availability: "OPEN_TO_COLLABORATION",
+};
+
+export default gauravGautam;
+```
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/System-ONLINE%20%E2%97%8F-0284c7?style=flat-square" alt="Status Online" />
+  <img src="https://img.shields.io/badge/git-main*-007ACC?style=flat-square&logo=git&logoColor=white" alt="Git Branch" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Role-AI%2FML%20%2B%20Systems-10b981?style=flat-square" alt="Role" />
+  <img src="https://img.shields.io/badge/0_%E2%93%A7_0_%E2%9A%A0-Clean-10b981?style=flat-square" alt="Zero Errors" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Model%20Compression-7c3aed?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Spaces-2-blue?style=flat-square" alt="Spaces" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-India%20(IST)-f59e0b?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/UTF--8-TypeScript-3178C6?style=flat-square" alt="TypeScript" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Prettier-Passing-563d7c?style=flat-square&logo=prettier&logoColor=white" alt="Prettier" />
 </p>
 
 <br>
