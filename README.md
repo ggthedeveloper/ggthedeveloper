@@ -89,19 +89,6 @@
 <!-- Glowing Divider Line like Lakshya -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="Divider">
 
-<!-- Contribution Snake Animation like Alok -->
-<p align="center">
-  <b>Contribution Activity</b>
-</p>
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Contribution Snake animation" />
-</div>
-
-<br>
-
-<!-- Glowing Divider Line like Lakshya -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="Divider">
-
 <!-- Connect CTA Buttons like Lakshya & Alok -->
 <p align="center">
   <b>Let's Connect and Build Something Amazing!</b><br><br>
