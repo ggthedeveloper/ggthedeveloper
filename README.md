@@ -94,40 +94,44 @@
 <!-- SECTION: RESEARCH & EXPERIENCE -->
 <h3 id="research--experience">🔬 Research & Academic Experience</h3>
 
-```text
-2026
-│
-├── 🏛️  IIT Bhubaneswar ──────────── Research Intern (Transformer Model Compression • CoFi & QA-LoRA)
-│
-├── 🎓  SRM University, AP ──────── Summer Research Intern (QA-LoRA • Efficient LLM Adaptation)
-│
-└── ⚡  Coding Club SRMAP ───────── Associate Convenor (Technical Initiatives, Workshops & Hackathons)
-```
+<!-- ANIMATED RESEARCH TIMELINE RUNNER -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=1000&color=38BDF8&background=070E1D&center=true&vCenter=true&width=800&height=45&lines=%F0%9F%8F%9B%EF%B8%8F+IIT+Bhubaneswar+%E2%86%92+Transformer+Compression+%E2%80%A2+CoFi+Pruning+%E2%80%A2+QA-LoRA;%F0%9F%8E%93+SRM+University%2C+AP+%E2%86%92+QA-LoRA+LLM+Adaptation+%E2%80%A2+Efficient+Inference;%E2%9A%A1+Coding+Club+SRMAP+%E2%86%92+Associate+Convenor+%E2%80%A2+Technical+Workshops" alt="Research Timeline Animation" />
 
-<br>
+<br><br>
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h4>🏛️ IIT Bhubaneswar</h4>
-      <p><b>Role:</b> Research Intern &nbsp;•&nbsp; <b>Duration:</b> May 2026 – July 2026 &nbsp;•&nbsp; <i>Remote</i></p>
-      <ul>
-        <li>Researched model compression techniques for Transformer architectures.</li>
-        <li>Conducted structured pruning experiments utilizing <b>CoFi (Coarse-to-Fine)</b>.</li>
-        <li>Investigated parameter-efficient adaptation via <b>QA-LoRA</b> with <b>PyTorch</b> and <b>Hugging Face</b>.</li>
-      </ul>
+    <td width="50%" align="center" valign="top">
+      <h3>🏛️ IIT Bhubaneswar</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Research%20Intern-May%20--%20July%202026-0284c7?style=flat-square" alt="IIT Duration" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Mode-Remote-10b981?style=flat-square" alt="Remote" />
+      </p>
+      <p><b>Transformer Model Compression</b></p>
+      <p>CoFi structured pruning & QA-LoRA adaptation on Transformer architectures.</p>
+      <p>
+        <code>PyTorch</code> • <code>Hugging Face</code> • <code>CoFi</code> • <code>QA-LoRA</code>
+      </p>
     </td>
-    <td width="50%" valign="top">
-      <h4>🎓 SRM University, AP</h4>
-      <p><b>Role:</b> Summer Research Intern &nbsp;•&nbsp; <b>Duration:</b> June 2026 – July 2026 &nbsp;•&nbsp; <i>Remote</i></p>
-      <ul>
-        <li>Researched <b>QA-LoRA</b> for low-rank Large Language Model adaptation.</li>
-        <li>Benchmarked parameter footprint reduction against task accuracy in <b>Python</b>.</li>
-        <li>Analyzed weight updates under quantization constraints for efficient inference.</li>
-      </ul>
+    <td width="50%" align="center" valign="top">
+      <h3>🎓 SRM University, AP</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Summer%20Research-June%20--%20July%202026-7c3aed?style=flat-square" alt="SRMAP Duration" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Mode-Remote-10b981?style=flat-square" alt="Remote" />
+      </p>
+      <p><b>Efficient LLM Adaptation</b></p>
+      <p>Parameter footprint reduction & benchmark evaluation under quantization constraints.</p>
+      <p>
+        <code>Python</code> • <code>QA-LoRA</code> • <code>Quantization</code> • <code>Data Analysis</code>
+      </p>
     </td>
   </tr>
 </table>
+
+</div>
 
 <br>
 
