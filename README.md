@@ -31,7 +31,6 @@
   <a href="#about-me"><b>About</b></a> &nbsp;•&nbsp;
   <a href="#what-i-work-on"><b>Focus</b></a> &nbsp;•&nbsp;
   <a href="#research--experience"><b>Research</b></a> &nbsp;•&nbsp;
-  <a href="#projects"><b>Projects</b></a> &nbsp;•&nbsp;
   <a href="#technical-arsenal"><b>Stack</b></a> &nbsp;•&nbsp;
   <a href="#certifications"><b>Certifications</b></a> &nbsp;•&nbsp;
   <a href="#leadership--community"><b>Leadership</b></a> &nbsp;•&nbsp;
@@ -178,41 +177,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="Cyber Laser Divider" />
 </div>
 
-<br>
 
-<!-- SECTION: PROJECTS (COLLAPSIBLE REPOSITORIES) -->
-<h3 id="projects">📂 Projects & Repositories</h3>
-
-<details open>
-<summary><b>Click to expand / collapse repository directory</b></summary>
-<br>
-
-| Project | Domain | Stack | Link |
-|:---|:---|:---|:---:|
-| 🌦️ **VarshaPurvanumanAI** | Climate AI (SIH 2026 MoES/IMD) | `Python` `FastAPI` `React 19` | [Code ↗](https://github.com/ggthedeveloper/VarshaPurvanumanAI) • [Demo ↗](https://varsha-purvanuman-ai.vercel.app/) |
-| 🚆 **RailSamanvayAI** | Operational AI (Indian Railways SIH) | `Python` `Scikit-Learn` `FastAPI` | [Code ↗](https://github.com/ggthedeveloper/RailSamanvayAI) |
-| 🌊 **DrainSenseAI** | Urban IoT & Flood Telemetry | `Python` `FastAPI` `ML` | [Code ↗](https://github.com/ggthedeveloper/DrainSenseAI) |
-| 🎮 **Space-Shooter-3D** | Interactive 3D Combat Simulator | `Three.js` `WebGL` `Canvas` | [Code ↗](https://github.com/ggthedeveloper/Space-Shooter-3D) |
-| 🗺️ **Smart-Route-Finder** | Spatial Pathfinding Algorithms | `JavaScript` `Graph Theory` | [Code ↗](https://github.com/ggthedeveloper/Smart-Route-Finder) |
-| 🪐 **Solar-System-3D** | N-Body Gravitational Physics | `Three.js` `JavaScript` | [Code ↗](https://github.com/ggthedeveloper/Solar-System-Simulation-HNY-2026) |
-| 🌾 **AgriSync** | AgriTech & IoT Telemetry | `Python` `IoT Telemetry` | [Code ↗](https://github.com/ggthedeveloper/AgriSync) |
-| 🌦️ **WeatherApp** | Meteorological Web Application | `React` `FastAPI` `REST` | [Code ↗](https://github.com/ggthedeveloper/WeatherApp) |
-| 🏎️ **Car-Racing-3D** | 3D Interactive Driving Simulation | `Three.js` `WebGL` `Physics` | [Code ↗](https://github.com/ggthedeveloper/Car-Racing-3D) |
-| 💡 **AI-Study-Explainer** | EdTech & Pedagogical AI | `Python` `Transformers` | [Code ↗](https://github.com/ggthedeveloper/AI-Study-Explainer) |
-| 🧠 **AI-Study-Helper** | Educational Productivity Assistant | `Node.js` `Express` `AI` | [Code ↗](https://github.com/ggthedeveloper/AI-Study-Helper) |
-| 🌿 **MoodMate-App** | Digital Health & Wellness | `React` `Tailwind` `Node.js` | [Code ↗](https://github.com/ggthedeveloper/MoodMate-App) |
-| 📋 **SRMS-Project** | Student Record Management System | `MySQL` `Express` `Node.js` | [Code ↗](https://github.com/ggthedeveloper/SRMS-Project) |
-| 🧭 **YatraApp-Trip-Planner** | Multi-Day Travel Route Planner | `JavaScript` `API Integration` | [Code ↗](https://github.com/ggthedeveloper/YatraApp-Trip-Planner) |
-
-</details>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="Cyber Laser Divider" />
-</div>
-
-<br>
 
 <!-- SECTION: TECHNICAL ARSENAL -->
 <h3 id="technical-arsenal">🛠️ Technical Arsenal</h3>
@@ -322,7 +287,11 @@
 
 <p align="center">
   <a href="https://github.com/ggthedeveloper">
-    <img src="https://streak-stats.demolab.com/?user=ggthedeveloper&theme=tokyonight&hide_border=true&background=070e1d&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com/?user=ggthedeveloper&theme=tokyonight&hide_border=true&background=070e1d&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&timezone=Asia/Kolkata" alt="GitHub Streak Stats (Real-Time IST Sync)" />
+  </a>
+  <br><br>
+  <a href="https://github.com/ggthedeveloper?tab=overview">
+    <img src="https://img.shields.io/badge/Contribution%20Graph-Real--Time%20Sync%20(IST)-10b981?style=flat-square&logo=github&logoColor=white" alt="Live Sync IST" />
   </a>
 </p>
 
