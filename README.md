@@ -45,53 +45,6 @@
 
 <br>
 
-<div align="center">
-
-<!-- HERO ANIMATED BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070e1d,45:0f172a,100:0284c7&height=220&section=header&text=GAURAV%20GAUTAM&fontSize=48&fontColor=ffffff&animation=twinkling&desc=AI%2FML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20AI%20Research%20Enthusiast&descSize=16&descAlignY=72&descAlign=50" width="100%" alt="Gaurav Gautam Header Banner" />
-
-<!-- PRIMARY TYPING ANIMATION -->
-<a href="https://github.com/ggthedeveloper">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=%E2%9E%9C+AI%2FML+Research+%E2%80%A2+Transformer+Model+Compression+%F0%9F%A7%A0;%E2%9E%9C+CoFi+Structured+Pruning+%26+QA-LoRA+Fine-Tuning+%E2%9A%99%EF%B8%8F;%E2%9E%9C+Full-Stack+Systems+%E2%80%A2+FastAPI+%E2%80%A2+React+19+%E2%80%A2+TypeScript+%F0%9F%8C%90;%E2%9E%9C+Real-World+AI%3A+VarshaPurvanumanAI+%26+RailSamanvayAI+%E2%9A%A1;%E2%9E%9C+Interactive+3D+Graphics+%E2%80%A2+Three.js+%E2%80%A2+WebGL+%F0%9F%9A%80" alt="Typing Animation" />
-</a>
-
-<br><br>
-
-<!-- VERIFIED PROFILE PILLS -->
-<a href="https://github.com/ggthedeveloper">
-  <img src="https://img.shields.io/badge/SRM%20University%2C%20AP-B.Tech%20CSE-0284c7?style=for-the-badge&logo=googlescholar&logoColor=white" alt="SRM University AP" />
-</a>
-<a href="https://github.com/ggthedeveloper/VarshaPurvanumanAI">
-  <img src="https://img.shields.io/badge/SIH%202026-Project%20Developer-f59e0b?style=for-the-badge&logo=target&logoColor=white" alt="SIH 2026 Project" />
-</a>
-<a href="https://github.com/ggthedeveloper">
-  <img src="https://img.shields.io/badge/GitHub-PRO-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pro" />
-</a>
-<a href="https://komarev.com/ghpvc/?username=ggthedeveloper&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS">
-  <img src="https://komarev.com/ghpvc/?username=ggthedeveloper&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</a>
-
-<br><br>
-
-<!-- INTERACTIVE NAVIGATION BAR -->
-<p align="center">
-  <a href="#about-me"><b>About</b></a> &nbsp;•&nbsp;
-  <a href="#what-i-work-on"><b>Focus</b></a> &nbsp;•&nbsp;
-  <a href="#research--experience"><b>Research</b></a> &nbsp;•&nbsp;
-  <a href="#technical-arsenal"><b>Stack</b></a> &nbsp;•&nbsp;
-  <a href="#certifications"><b>Certifications</b></a> &nbsp;•&nbsp;
-  <a href="#leadership--community"><b>Leadership</b></a> &nbsp;•&nbsp;
-  <a href="#activity--stats"><b>Activity</b></a> &nbsp;•&nbsp;
-  <a href="#connect--collaborate"><b>Connect</b></a>
-</p>
-
-<!-- ANIMATED LASER DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="Cyber Laser Divider" />
-
-</div>
-
-<br>
-
 <!-- SECTION: ABOUT ME -->
 <h3 id="about-me"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" align="center"> About Me</h3>
 
