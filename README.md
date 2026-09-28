@@ -140,120 +140,102 @@
 <!-- SECTION: FEATURED PROJECTS -->
 <h3 id="featured-projects">🌟 Featured Engineering Projects</h3>
 
+<!-- ANIMATED PROJECT SHOWCASE -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2400&pause=900&color=38BDF8&background=070E1D&center=true&vCenter=true&width=800&height=45&lines=%F0%9F%8C%A7%EF%B8%8F+VarshaPurvanumanAI+%E2%86%92+Monsoon+Rainfall+AI+Downscaling+(SIH+2026);%F0%9F%9A%86+RailSamanvayAI+%E2%86%92+Indian+Railways+Block+Planning+%26+Traffic+AI;%F0%9F%8C%8A+DrainSenseAI+%E2%86%92+Acoustic+Sensor+Municipal+Flood+Telemetry;%F0%9F%8E%AE+Space-Shooter-3D+%E2%86%92+Real-Time+Three.js+%2F+WebGL+Combat+Engine;%F0%9F%97%BA%EF%B8%8F+Smart-Route-Finder+%E2%86%92+Spatial+Multi-Modal+Heuristic+Pathfinding;%F0%9F%AA%90+Solar-System-3D+%E2%86%92+Gravitational+N-Body+Orbital+Mechanics" alt="Animated Project Showcase" />
+
+<br><br>
+
 <table width="100%">
-  <thead>
-    <tr>
-      <th width="32%">Project & Domain</th>
-      <th width="48%">Key Highlights</th>
-      <th width="20%">Stack & Links</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <b>🌦️ VarshaPurvanumanAI</b><br>
-        <code>AI / Climate Intelligence</code><br>
-        <small><i>SIH 2026 (SIH26080) • MoES / IMD</i></small>
-      </td>
-      <td>
-        Regime-aware AI/ML post-processing system for monsoon rainfall forecast downscaling from dynamical atmospheric models.
-      </td>
-      <td>
-        <code>Python</code> <code>FastAPI</code> <code>React 19</code><br><br>
-        <a href="https://github.com/ggthedeveloper/VarshaPurvanumanAI"><b>📦 Code</b></a> &nbsp;|&nbsp; 
-        <a href="https://varsha-purvanuman-ai.vercel.app/"><b>🚀 Live Demo</b></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>🚆 RailSamanvayAI</b><br>
-        <code>Operational AI / Railways</code><br>
-        <small><i>Smart India Hackathon 2026</i></small>
-      </td>
-      <td>
-        ML-assisted decision support system for Indian Railways: corridor maintenance block scheduling and traffic conflict resolution.
-      </td>
-      <td>
-        <code>Python</code> <code>Scikit-Learn</code> <code>FastAPI</code><br><br>
-        <a href="https://github.com/ggthedeveloper/RailSamanvayAI"><b>📦 Code</b></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>🌊 DrainSenseAI</b><br>
-        <code>Urban IoT & Flood Telemetry</code><br>
-        <small><i>Municipal Disaster Prevention</i></small>
-      </td>
-      <td>
-        Urban drainage telemetry system using acoustic sensor signal analysis for early blockage detection and flood prevention.
-      </td>
-      <td>
-        <code>Python</code> <code>FastAPI</code> <code>ML</code><br><br>
-        <a href="https://github.com/ggthedeveloper/DrainSenseAI"><b>📦 Code</b></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>🎮 Space-Shooter-3D</b><br>
-        <code>3D Graphics & WebGL</code><br>
-        <small><i>Real-Time Arcade Engine</i></small>
-      </td>
-      <td>
-        Browser-based 3D arcade combat simulator with custom particle systems, dynamic scene illumination, and collision physics.
-      </td>
-      <td>
-        <code>Three.js</code> <code>WebGL</code> <code>JavaScript</code><br><br>
-        <a href="https://github.com/ggthedeveloper/Space-Shooter-3D"><b>📦 Code</b></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>🗺️ Smart-Route-Finder</b><br>
-        <code>Spatial Routing Algorithms</code><br>
-        <small><i>Multi-Modal Pathfinding</i></small>
-      </td>
-      <td>
-        Spatial routing engine implementing heuristic graph search algorithms for multi-modal travel and turn-by-turn navigation.
-      </td>
-      <td>
-        <code>JavaScript</code> <code>Graph Algorithms</code><br><br>
-        <a href="https://github.com/ggthedeveloper/Smart-Route-Finder"><b>📦 Code</b></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>🪐 Solar-System-Simulation</b><br>
-        <code>Physics Simulation & WebGL</code><br>
-        <small><i>Orbital Mechanics Visualizer</i></small>
-      </td>
-      <td>
-        Interactive 3D simulation of celestial planetary bodies and N-body gravitational mechanics rendered with accurate trajectories.
-      </td>
-      <td>
-        <code>Three.js</code> <code>JavaScript</code><br><br>
-        <a href="https://github.com/ggthedeveloper/Solar-System-Simulation-HNY-2026"><b>📦 Code</b></a>
-      </td>
-    </tr>
-  </tbody>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🌦️ <a href="https://github.com/ggthedeveloper/VarshaPurvanumanAI">VarshaPurvanumanAI</a></h3>
+      <p><b>Climate AI • Monsoon Forecast Downscaling</b></p>
+      <p>
+        <a href="https://github.com/ggthedeveloper/VarshaPurvanumanAI"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
+        &nbsp;
+        <a href="https://varsha-purvanuman-ai.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-0070F3?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+        &nbsp;
+        <img src="https://img.shields.io/badge/SIH%202026-MoES%20%2F%20IMD-f59e0b?style=flat-square" alt="SIH" />
+      </p>
+      <p><code>Python</code> • <code>FastAPI</code> • <code>React 19</code> • <code>PyTorch</code></p>
+    </td>
+    <td width="50%" align="center">
+      <h3>🚆 <a href="https://github.com/ggthedeveloper/RailSamanvayAI">RailSamanvayAI</a></h3>
+      <p><b>Operational AI • Railways Block Scheduling</b></p>
+      <p>
+        <a href="https://github.com/ggthedeveloper/RailSamanvayAI"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
+        &nbsp;
+        <img src="https://img.shields.io/badge/SIH%202026-Railways-f59e0b?style=flat-square" alt="SIH" />
+      </p>
+      <p><code>Python</code> • <code>Scikit-Learn</code> • <code>FastAPI</code> • <code>Optimization</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🌊 <a href="https://github.com/ggthedeveloper/DrainSenseAI">DrainSenseAI</a></h3>
+      <p><b>Urban IoT • Flood Telemetry & Detection</b></p>
+      <p>
+        <a href="https://github.com/ggthedeveloper/DrainSenseAI"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
+        &nbsp;
+        <img src="https://img.shields.io/badge/Disaster-Prevention-0284c7?style=flat-square" alt="Disaster Tech" />
+      </p>
+      <p><code>Python</code> • <code>FastAPI</code> • <code>Signal Processing</code> • <code>ML</code></p>
+    </td>
+    <td width="50%" align="center">
+      <h3>🎮 <a href="https://github.com/ggthedeveloper/Space-Shooter-3D">Space-Shooter-3D</a></h3>
+      <p><b>Interactive 3D • Real-Time WebGL Arcade</b></p>
+      <p>
+        <a href="https://github.com/ggthedeveloper/Space-Shooter-3D"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
+        &nbsp;
+        <img src="https://img.shields.io/badge/3D-Simulation-7c3aed?style=flat-square" alt="Simulation" />
+      </p>
+      <p><code>Three.js</code> • <code>WebGL</code> • <code>JavaScript</code> • <code>Canvas</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🗺️ <a href="https://github.com/ggthedeveloper/Smart-Route-Finder">Smart-Route-Finder</a></h3>
+      <p><b>Spatial GIS • Heuristic Pathfinding</b></p>
+      <p>
+        <a href="https://github.com/ggthedeveloper/Smart-Route-Finder"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
+        &nbsp;
+        <img src="https://img.shields.io/badge/Graph-Routing-10b981?style=flat-square" alt="Routing" />
+      </p>
+      <p><code>JavaScript</code> • <code>Graph Algorithms</code> • <code>Spatial GIS</code></p>
+    </td>
+    <td width="50%" align="center">
+      <h3>🪐 <a href="https://github.com/ggthedeveloper/Solar-System-Simulation-HNY-2026">Solar-System-3D</a></h3>
+      <p><b>Physics Simulation • N-Body Celestial Mechanics</b></p>
+      <p>
+        <a href="https://github.com/ggthedeveloper/Solar-System-Simulation-HNY-2026"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
+        &nbsp;
+        <img src="https://img.shields.io/badge/Orbital-Physics-ec4899?style=flat-square" alt="Physics" />
+      </p>
+      <p><code>Three.js</code> • <code>JavaScript</code> • <code>Orbital Dynamics</code></p>
+    </td>
+  </tr>
 </table>
+
+</div>
 
 <br>
 
 <!-- SECTION: OTHER PROJECTS (COLLAPSIBLE) -->
 <details>
-<summary><b>📂 View More Projects & Explorations (Click to expand)</b></summary>
+<summary><b>📂 View More Projects & Repositories (Click to expand)</b></summary>
 <br>
 
-| Project | Domain | Description | Repository |
+| Project | Domain | Stack | Link |
 |:---|:---|:---|:---:|
-| 🌾 **AgriSync & AgriSync-App** | AgriTech & IoT | Precision agriculture platform for soil moisture telemetry and crop health analytics. | [Code](https://github.com/ggthedeveloper/AgriSync) |
-| 🌦️ **WeatherApp & Backend** | Full-Stack Web | Meteorological forecast application featuring responsive UI and RESTful API services. | [Code](https://github.com/ggthedeveloper/WeatherApp) |
-| 🏎️ **Car-Racing-3D** | Interactive 3D | 3D browser vehicle driving simulator with physics-based acceleration and track boundaries. | [Code](https://github.com/ggthedeveloper/Car-Racing-3D) |
-| 💡 **AI-Study-Explainer** | EdTech / NLP | AI pedagogical tool for distilling complex engineering and mathematical concepts. | [Code](https://github.com/ggthedeveloper/AI-Study-Explainer) |
-| 🧠 **AI-Study-Helper** | Productivity | Smart study assistant providing question answering, flashcard generation, and summaries. | [Code](https://github.com/ggthedeveloper/AI-Study-Helper) |
-| 🌿 **MoodMate-App / CFC** | HealthTech | Mental health and wellness companion app facilitating mood logging and reflection. | [Code](https://github.com/ggthedeveloper/MoodMate-App) |
-| 📋 **SRMS-Project** | Database Systems | Student Record Management System with relational database modeling and CRUD operations. | [Code](https://github.com/ggthedeveloper/SRMS-Project) |
-| 🧭 **YatraApp-Trip-Planner** | Travel Utility | Intelligent travel planner for managing multi-day itineraries and expense estimations. | [Code](https://github.com/ggthedeveloper/YatraApp-Trip-Planner) |
+| 🌾 **AgriSync** | AgriTech & IoT | `Python` `IoT Telemetry` | [Repository ↗](https://github.com/ggthedeveloper/AgriSync) |
+| 🌦️ **WeatherApp** | Meteorological Web | `React` `FastAPI` `REST` | [Repository ↗](https://github.com/ggthedeveloper/WeatherApp) |
+| 🏎️ **Car-Racing-3D** | Interactive 3D | `Three.js` `WebGL` `Physics` | [Repository ↗](https://github.com/ggthedeveloper/Car-Racing-3D) |
+| 💡 **AI-Study-Explainer** | EdTech & NLP | `Python` `Transformers` | [Repository ↗](https://github.com/ggthedeveloper/AI-Study-Explainer) |
+| 🧠 **AI-Study-Helper** | Educational Productivity | `Node.js` `Express` `AI` | [Repository ↗](https://github.com/ggthedeveloper/AI-Study-Helper) |
+| 🌿 **MoodMate-App** | Digital Health | `React` `Tailwind` `Node.js` | [Repository ↗](https://github.com/ggthedeveloper/MoodMate-App) |
+| 📋 **SRMS-Project** | Database Systems | `MySQL` `Express` `Node.js` | [Repository ↗](https://github.com/ggthedeveloper/SRMS-Project) |
+| 🧭 **YatraApp-Trip-Planner** | Travel Utility | `JavaScript` `API Integration` | [Repository ↗](https://github.com/ggthedeveloper/YatraApp-Trip-Planner) |
 
 </details>
 
