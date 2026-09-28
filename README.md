@@ -1,102 +1,124 @@
-<!-- Typewriter Header like Lakshya -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Full-Stack+AI%2FML+Engineer;System+Architect+%7C+SIH+2026+Finalist;Creator+of+VarshaPurvanumanAI+%26+RailSamanvayAI"
-    alt="Orbitron Typing SVG"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070e1d,50:0f172a,100:0284c7&height=220&section=header&text=GAURAV%20GAUTAM&fontSize=48&fontColor=ffffff&animation=twinkling&desc=%E2%9A%A1%20Lead%20AI%2FML%20Architect%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20SIH%202026%20Finalist%20%E2%9A%A1&descSize=16&descAlignY=70&descAlign=50" width="100%" alt="Gaurav Gautam Header" />
 </p>
 
-<!-- Cinematic Visual like Lakshya -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26FmQ6EOvLxp6cWyY/giphy.gif" height="240" width="370" alt="Cinematic Visual" />
+  <a href="https://github.com/ggthedeveloper">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=%E2%9E%9C+Lead+ML+Architect+%40+The+Steel+Bytes+800+(SIH+2026)+%F0%9F%8F%86;%E2%9E%9C+Creator+of+VarshaPurvanumanAI+(MoES+%2F+IMD+-+SIH26080)+%E2%98%94;%E2%9E%9C+Architecting+RailSamanvayAI+for+Indian+Railways+%F0%9F%9A%86;%E2%9E%9C+Physics-Informed+ML+%E2%80%A2+Geospatial+GIS+%E2%80%A2+Scalable+APIs+%F0%9F%8C%90;%E2%9E%9C+Passionate+about+Interactive+3D+WebGL+%26+Deep+Tech+%F0%9F%92%BB" alt="Typing SVG" />
+  </a>
 </p>
 
-<!-- Glowing Divider Line like Lakshya -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="Divider">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="680" alt="Cyber Workstation Animation" />
+</p>
 
-<!-- Alok-style Friendly Greeting & Role Badges -->
+<p align="center">
+  <a href="https://github.com/ggthedeveloper/VarshaPurvanumanAI">
+    <img src="https://img.shields.io/badge/SIH%202026-Finalist%20%F0%9F%8F%86-f59e0b?style=for-the-badge&logo=award&logoColor=white" alt="SIH 2026 Finalist" />
+  </a>
+  <a href="https://github.com/ggthedeveloper">
+    <img src="https://img.shields.io/badge/GitHub-PRO%20%E2%AD%90-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="GitHub PRO" />
+  </a>
+  <a href="https://varsha-purvanuman-ai.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Deployments-Active%20%E2%9A%A1-0284c7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Deployments" />
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=ggthedeveloper&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS">
+    <img src="https://komarev.com/ghpvc/?username=ggthedeveloper&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=38bdf8,818cf8,c084fc&height=3" width="100%" alt="Divider Line" />
+</p>
+
+### ⚡ System Overview & Background
+
+```yaml
+╔═════════════════════════════════════════════════════════════════════════════════╗
+║  gaurav@mainframe:~$ whoami                                                     ║
+╠═════════════════════════════════════════════════════════════════════════════════╣
+║  • Engineer:    Gaurav Gautam (@ggthedeveloper)                                 ║
+║  • Leadership:  Lead ML Architect @ The Steel Bytes 800 (SIH 2026)              ║
+║  • Focus Areas: Physics-Informed ML • NWP Downscaling • Geospatial GIS          ║
+║  • Flagships:   VarshaPurvanumanAI (MoES / IMD) • RailSamanvayAI (Railways)     ║
+║  • Stack:       Python, PyTorch, Scikit-Learn, FastAPI, React 19, TypeScript, C+║
+║  • Philosophy:  Zero Synthetic Fabrication • Rigorous Testing • Real Impact    ║
+╚═════════════════════════════════════════════════════════════════════════════════╝
+```
+
+- 🏆 **Smart India Hackathon (SIH 2026) Finalist**: Lead ML Architect for **VarshaPurvanumanAI** (Problem Statement SIH26080 for Ministry of Earth Sciences / IMD) and **RailSamanvayAI** (Automated block planning for Indian Railways).
+- 🔬 **Physics-Informed Climate & Spatial AI**: Specializing in combining physical dynamical atmospheric models (NOAA GFS, ECMWF ERA5) with regime-conditioned gradient boosting and Platt-calibrated probability distributions.
+- 🌐 **Full-Stack Engineering Excellence**: Building end-to-end architectures from multi-cell polygon-grid spatial aggregators to high-performance React 19 + TypeScript telemetry dashboards.
+- 🎮 **Interactive 3D Graphics**: Developing real-time WebGL, Three.js, and canvas simulations with custom lighting and particle physics engines.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=38bdf8,818cf8,c084fc&height=3" width="100%" alt="Divider Line" />
+</p>
+
+### 🛠️ Technical Arsenal
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,scikitlearn,fastapi,react,ts,js,cpp,tailwind,vite,docker,git,github,linux,postman,vscode&perline=8&theme=dark" alt="Technical Arsenal Icons" />
+  </a>
+</p>
+
 <div align="center">
-  <h1>👋 Hi, It's Gaurav Gautam</h1>
-  <h3>🌐 Full-Stack AI/ML Engineer | System Architect | SIH 2026 Finalist 🚀</h3>
-  <p>💡 Welcome to my GitHub profile! I'm passionate about building mission-critical machine learning systems, physics-informed AI, and scalable full-stack applications.</p>
+
+| Domain | Core Technologies & Frameworks |
+|:---|:---|
+| **AI / Machine Learning** | `Python` `PyTorch` `Scikit-Learn` `NumPy` `Pandas` `GeoPandas` `Shapely` `Platt Calibration` |
+| **Full-Stack & Web** | `React 19` `TypeScript` `JavaScript` `Next.js` `FastAPI` `Tailwind CSS v4` `Vite` `Node.js` |
+| **Geospatial & Spatial GIS** | `GeoJSON` `Leaflet` `Google Maps API` `Open-Meteo GFS` `Polygon-Grid Spatial Weighting` |
+| **Interactive 3D & Graphics** | `Three.js` `WebGL` `HTML5 Canvas` `Particle Physics` `Orbital Mechanics` |
+| **DevOps, Tooling & Cloud** | `Docker` `Vercel` `Git` `GitHub Actions` `Postman` `Linux` `macOS` |
+
 </div>
 
-<br>
-
-- 🏆 **Lead ML Architect** at **The Steel Bytes 800** (Smart India Hackathon 2026 Finalist).
-- 🌦️ Creator of **VarshaPurvanumanAI** (MoES / IMD - Problem Statement SIH26080) & **RailSamanvayAI** (Indian Railways).
-- ⚡ Specializing in **Physics-Informed Machine Learning**, **Real-Time Geospatial GIS**, and **High-Throughput APIs**.
-- 🎮 Building interactive 3D WebGL simulations (**Space-Shooter-3D**, **Solar-System-3D**).
-- 🌱 Always exploring cutting-edge AI architectures, deep tech innovations, and open-source systems.
-- 📌 Interested in High-Impact Real-World Engineering, Climate Tech, and Scalable Cloud Systems.
-
-<br>
-
-<!-- Glowing Divider Line like Lakshya -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="Divider">
-
-<!-- Tech Arsenal Gradient Banner like Lakshya -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=gradient&customColorList=6,12,20&text=Tech%20Arsenal&fontSize=32&fontColor=fff&animation=fadeIn" alt="Tech Arsenal">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=38bdf8,818cf8,c084fc&height=3" width="100%" alt="Divider Line" />
+</p>
+
+### 🌟 Featured Engineering Deployments
+
+| Deployment | Focus Area | Architectural Highlights | Links |
+|:---|:---|:---|:---:|
+| 🌦️ **VarshaPurvanumanAI** | **Climate AI / MoES & IMD** | **SIH 2026 (SIH26080)** • 8-class synoptic regime routing • 64.8% wet bias reduction • 763-district spatial downscaling • 150/150 automated test suite | [Repository](https://github.com/ggthedeveloper/VarshaPurvanumanAI) • [Live Demo](https://varsha-purvanuman-ai.vercel.app/) |
+| 🚆 **RailSamanvayAI** | **Operational AI / Railways** | **SIH Project** • Automated maintenance block allocation & traffic conflict resolution for Indian Railways | [Repository](https://github.com/ggthedeveloper/RailSamanvayAI) |
+| 🌊 **DrainSenseAI** | **Urban IoT & Disaster Tech** | Municipal flood telemetry, acoustic sensor signal analysis & drainage anomaly detection | [Repository](https://github.com/ggthedeveloper/DrainSenseAI) |
+| 🎮 **Space-Shooter-3D** | **Interactive 3D Simulation** | Real-time WebGL arcade space combat simulator with custom particle systems & lighting physics | [Repository](https://github.com/ggthedeveloper/Space-Shooter-3D) |
+| 🗺️ **Smart-Route-Finder** | **Spatial Algorithms** | Multi-modal pathfinding engine with heuristic graph optimization & turn-by-turn routing | [Repository](https://github.com/ggthedeveloper/Smart-Route-Finder) |
+| 🪐 **Solar-System-3D** | **Physics Simulation** | Interactive N-body gravitational celestial mechanics & orbital dynamics visualizer | [Repository](https://github.com/ggthedeveloper/Solar-System-Simulation-HNY-2026) |
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=38bdf8,818cf8,c084fc&height=3" width="100%" alt="Divider Line" />
+</p>
+
+### 📊 Streak & Activity Telemetry
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ggthedeveloper&theme=tokyonight&hide_border=true&background=070e1d&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="55" title="Python" alt="Python">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="55" title="PyTorch" alt="PyTorch">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55" title="Scikit-Learn" alt="Scikit-Learn">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="55" title="FastAPI" alt="FastAPI">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" title="React 19" alt="React">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="55" title="TypeScript" alt="TypeScript">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" title="JavaScript" alt="JavaScript">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width="55" title="C++" alt="C++">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="55" title="Tailwind CSS" alt="Tailwind">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="55" title="Node.js" alt="Node.js">
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="55" title="Docker" alt="Docker">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55" title="Git" alt="Git">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="55" title="VS Code" alt="VS Code">
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="55" title="GitHub" alt="GitHub">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=38bdf8,818cf8,c084fc&height=3" width="100%" alt="Divider Line" />
 </p>
 
-<!-- Specializations Gradient Banner like Lakshya -->
+### 📬 Connect & Collaborate
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=50&color=gradient&customColorList=12,20,6&text=Specializations&fontSize=28&fontColor=fff" alt="Specializations">
+  <b>Let's build intelligent, mission-critical systems together!</b><br><br>
+  <a href="https://github.com/ggthedeveloper">
+    <img src="https://img.shields.io/badge/GitHub-ggthedeveloper-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:ggraipurchor@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ggraipurchor%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://varsha-purvanuman-ai.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Platform-VarshaPurvanumanAI-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20%2F%20Machine%20Learning-FF6B35?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="AI & ML">
-  <img src="https://img.shields.io/badge/Physics--Informed%20ML-F7931E?style=for-the-badge&logo=python&logoColor=white" alt="Physics-Informed ML">
-  <img src="https://img.shields.io/badge/Geospatial%20GIS-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Geospatial GIS">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Systems-F7931E?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack Systems">
-  <img src="https://img.shields.io/badge/Real--Time%20Telemetry-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white" alt="Real-Time Telemetry">
-  <img src="https://img.shields.io/badge/3D%20WebGL%20Graphics-F7931E?style=for-the-badge&logo=threejs&logoColor=white" alt="3D WebGL Graphics">
-  <img src="https://img.shields.io/badge/Climate%20Resilience%20Tech-FF6B35?style=for-the-badge&logo=target&logoColor=white" alt="Climate Resilience Tech">
-</p>
-
-<!-- Glowing Divider Line like Lakshya -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="Divider">
-
-<!-- About Me Gradient Banner like Lakshya -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=gradient&customColorList=20,6,12&text=About%20Me&fontSize=32&fontColor=fff&animation=fadeIn" alt="About Me">
-</p>
-
-<p align="center">
-  <b>Full-Stack AI/ML Engineer & System Architect</b> passionate about solving real-world climate, logistics, and disaster management challenges through high-precision machine learning and interactive spatial visualization.<br><br>
-  <b>Tech Stack:</b> Proficient in Python, FastAPI, React 19, TypeScript, PyTorch, Scikit-Learn, GeoPandas, Docker, and Tailwind CSS. Experienced in building production-grade scientific pipelines and interactive web dashboards.<br><br>
-  <b>Mission:</b> Transforming complex atmospheric, spatial, and logistical data into reliable, life-saving intelligence platforms for government and enterprise operations.
-</p>
-
-<!-- Glowing Divider Line like Lakshya -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="Divider">
-
-<!-- Connect CTA Buttons like Lakshya & Alok -->
-<p align="center">
-  <b>Let's Connect and Build Something Amazing!</b><br><br>
-  <a href="https://github.com/ggthedeveloper"><img src="https://img.shields.io/badge/GitHub-ggthedeveloper-FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:ggraipurchor@gmail.com"><img src="https://img.shields.io/badge/Gmail-Get%20in%20Touch-F7931E?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://varsha-purvanuman-ai.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-VarshaPurvanumanAI-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a>
-</p>
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=ggthedeveloper&icon=0&color=0" alt="Visitor Count"></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070e1d,50:0f172a,100:0284c7&height=120&section=footer" width="100%" alt="Footer Wave" />
 </p>
