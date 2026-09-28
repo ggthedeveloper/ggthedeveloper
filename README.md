@@ -46,102 +46,30 @@
 <br>
 
 <!-- SECTION: ABOUT ME -->
-<h3 id="about-me">⚡ About Me</h3>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-gaurav__profile.ts-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Badge" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Language-TypeScript%205.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Build-Passing%20%E2%9C%94-10b981?style=for-the-badge&logo=githubactions&logoColor=white" alt="Build Passing" />
-</div>
-
-<br>
+<h3 id="about-me"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" align="center"> About Me</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2400&pause=800&color=38BDF8&background=070E1D&center=true&vCenter=true&width=800&height=36&lines=%E2%9E%9C+VS+Code+Terminal%3A+Compiling+gaurav_profile.ts...;%E2%9C%94+Compiled+successfully.+0+errors%2C+0+warnings.;%E2%9E%9C+Loaded+Modules%3A+Transformer+Compression+(CoFi+%26+QA-LoRA);%E2%9E%9C+Full-Stack+API%3A+FastAPI+%2B+React+19+Telemetry+Running" alt="VS Code Console Runner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=17&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=36&lines=Building+intelligent+systems+at+the+intersection+of+AI+%26+software;Researching+Transformer+compression+%26+efficient+model+adaptation;Developing+impactful+solutions+for+climate+%26+real-world+infrastructure;Passionate+about+bridging+deep+learning+research+and+production" alt="About Me Typing Animation" />
 </p>
 
-```typescript
-// 🔴 🟡 🟢  gaurav_profile.ts — Visual Studio Code Editor
+> ### 💡 *"Bridging the gap between deep learning research and scalable, real-world engineering."*
 
-import { Developer, Researcher } from "@srm-ap/cse";
-import { PruningTechnique, Quantization } from "@efficient-ml/compression";
+I am an **AI/ML Engineer and Full-Stack Developer** pursuing my B.Tech in Computer Science and Engineering at **SRM University, AP**. My passion lies in taking state-of-the-art machine learning research from theory into resilient, production-ready systems.
 
-export interface EngineerProfile {
-  readonly name: string;
-  readonly role: string;
-  readonly location: string;
-  education: {
-    institution: string;
-    degree: string;
-    status: string;
-  };
-  researchCore: {
-    domain: string;
-    specialization: string[];
-    frameworks: string[];
-  };
-  productionStack: {
-    backend: string[];
-    frontend: string[];
-    telemetryAndDatabases: string[];
-  };
-  impactInitiatives: string[];
-  availability: "OPEN_TO_COLLABORATION" | "EXPLORING_RESEARCH";
-}
-
-export const gauravGautam: EngineerProfile = {
-  name: "Gaurav Gautam",
-  role: "AI/ML Engineer • Full-Stack Developer • AI Research Enthusiast",
-  location: "India (IST)",
-
-  education: {
-    institution: "SRM University, AP",
-    degree: "B.Tech in Computer Science and Engineering",
-    status: "Active Scholar",
-  },
-
-  researchCore: {
-    domain: "Efficient Deep Learning & Transformer Compression",
-    specialization: [
-      "CoFi (Coarse-to-Fine) Structured Pruning",
-      "QA-LoRA (Quantization-Aware Low-Rank Adaptation)",
-      "Parameter-Efficient Fine-Tuning (PEFT)",
-    ],
-    frameworks: ["PyTorch", "Hugging Face Transformers", "CUDA"],
-  },
-
-  productionStack: {
-    backend: ["Python", "FastAPI", "Node.js", "Express", "RESTful Architecture"],
-    frontend: ["React 19", "TypeScript", "JavaScript (ESNext)", "Tailwind CSS"],
-    telemetryAndDatabases: ["MongoDB", "MySQL", "Three.js / WebGL Simulation"],
-  },
-
-  impactInitiatives: [
-    "Monsoon Precipitation Downscaling (SIH 2026 for MoES / IMD)",
-    "Indian Railways Automated Track Block Planning & Optimization",
-    "DrainSenseAI: Municipal Drainage Telemetry & Anomaly Detection",
-  ],
-
-  availability: "OPEN_TO_COLLABORATION",
-};
-
-export default gauravGautam;
-```
+- 🎓 **Academic Foundation** — Computer Science & Engineering undergraduate at **SRM University, AP**
+- 🔬 **Efficient AI & Compression** — Researching **Transformer model compression**, **CoFi structured pruning**, and **QA-LoRA (Quantization-Aware Low-Rank Adaptation)**
+- ⚡ **Full-Stack Engineering** — Architecting robust end-to-end applications with **FastAPI**, **React 19**, **TypeScript**, and **MongoDB**
+- 🌐 **National Impact Initiatives** — Developing mission-critical AI for monsoon rainfall forecast downscaling (**SIH 2026 / MoES**) and railway corridor scheduling (**Indian Railways**)
+- 🎮 **Visual & Scientific Compute** — Crafting interactive browser simulations with **Three.js** and **WebGL**
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/git-main*-007ACC?style=flat-square&logo=git&logoColor=white" alt="Git Branch" />
+  <img src="https://img.shields.io/badge/Status-Actively%20Building%20%26%20Researching-10b981?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
   &nbsp;
-  <img src="https://img.shields.io/badge/0_%E2%93%A7_0_%E2%9A%A0-Clean-10b981?style=flat-square" alt="Zero Errors" />
+  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%2B%20Full--Stack-0284c7?style=for-the-badge&logo=target&logoColor=white" alt="Focus" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Spaces-2-blue?style=flat-square" alt="Spaces" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/UTF--8-TypeScript-3178C6?style=flat-square" alt="TypeScript" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Prettier-Passing-563d7c?style=flat-square&logo=prettier&logoColor=white" alt="Prettier" />
+  <img src="https://img.shields.io/badge/Location-India%20(IST)-f59e0b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
 <br>
