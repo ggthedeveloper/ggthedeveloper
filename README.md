@@ -5,13 +5,8 @@
 
 <!-- PRIMARY TYPING ANIMATION -->
 <a href="https://github.com/ggthedeveloper">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=%E2%9E%9C+AI%2FML+Research+%E2%80%A2+Transformer+Model+Compression+%F0%9F%A7%A0;%E2%9E%9C+CoFi+Structured+Pruning+%26+QA-LoRA+Fine-Tuning+%E2%9A%99%EF%B8%8F;%E2%9E%9C+Full-Stack+Systems+%E2%80%A2+FastAPI+%E2%80%A2+React+19+%E2%80%A2+TypeScript+%F0%9F%8C%90;%E2%9E%9C+Real-World+AI%3A+VarshaPurvanumanAI+%26+RailSamanvayAI+%E2%9A%A1;%E2%9E%9C+Interactive+3D+Graphics+%E2%80%A2+Three.js+%26+WebGL+%F0%9F%9A%80" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=%E2%9E%9C+AI%2FML+Research+%E2%80%A2+Transformer+Model+Compression+%F0%9F%A7%A0;%E2%9E%9C+CoFi+Structured+Pruning+%26+QA-LoRA+Fine-Tuning+%E2%9A%99%EF%B8%8F;%E2%9E%9C+Full-Stack+Systems+%E2%80%A2+FastAPI+%E2%80%A2+React+19+%E2%80%A2+TypeScript+%F0%9F%8C%90;%E2%9E%9C+Real-World+AI%3A+VarshaPurvanumanAI+%26+RailSamanvayAI+%E2%9A%A1;%E2%9E%9C+Interactive+3D+Graphics+%E2%80%A2+Three.js+%E2%80%A2+WebGL+%F0%9F%9A%80" alt="Typing Animation" />
 </a>
-
-<br><br>
-
-<!-- ANIMATED CYBER WORKSTATION -->
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="460" alt="Developer Animation" />
 
 <br><br>
 
@@ -36,7 +31,7 @@
   <a href="#about-me"><b>About</b></a> &nbsp;•&nbsp;
   <a href="#what-i-work-on"><b>Focus</b></a> &nbsp;•&nbsp;
   <a href="#research--experience"><b>Research</b></a> &nbsp;•&nbsp;
-  <a href="#featured-projects"><b>Projects</b></a> &nbsp;•&nbsp;
+  <a href="#projects"><b>Projects</b></a> &nbsp;•&nbsp;
   <a href="#technical-arsenal"><b>Stack</b></a> &nbsp;•&nbsp;
   <a href="#certifications"><b>Certifications</b></a> &nbsp;•&nbsp;
   <a href="#leadership--community"><b>Leadership</b></a> &nbsp;•&nbsp;
@@ -85,8 +80,9 @@
 <!-- SECTION: WHAT I WORK ON -->
 <h3 id="what-i-work-on">🎯 What I Work On</h3>
 
+<!-- MALE DEVELOPER WORKSTATION ANIMATION -->
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="360" alt="Holographic Core Animation" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="480" alt="Male Developer Coding at Dual Monitors" />
 </div>
 
 <br>
@@ -184,105 +180,29 @@
 
 <br>
 
-<!-- SECTION: FEATURED PROJECTS -->
-<h3 id="featured-projects">🌟 Featured Engineering Projects</h3>
+<!-- SECTION: PROJECTS (COLLAPSIBLE REPOSITORIES) -->
+<h3 id="projects">📂 Projects & Repositories</h3>
 
-<!-- ANIMATED PROJECT SHOWCASE -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2400&pause=900&color=38BDF8&background=070E1D&center=true&vCenter=true&width=800&height=45&lines=%F0%9F%8C%A7%EF%B8%8F+VarshaPurvanumanAI+%E2%86%92+Monsoon+Rainfall+AI+Downscaling+(SIH+2026);%F0%9F%9A%86+RailSamanvayAI+%E2%86%92+Indian+Railways+Block+Planning+%26+Traffic+AI;%F0%9F%8C%8A+DrainSenseAI+%E2%86%92+Acoustic+Sensor+Municipal+Flood+Telemetry;%F0%9F%8E%AE+Space-Shooter-3D+%E2%86%92+Real-Time+Three.js+%2F+WebGL+Combat+Engine;%F0%9F%97%BA%EF%B8%8F+Smart-Route-Finder+%E2%86%92+Spatial+Multi-Modal+Heuristic+Pathfinding;%F0%9F%AA%90+Solar-System-3D+%E2%86%92+Gravitational+N-Body+Orbital+Mechanics" alt="Animated Project Showcase" />
-
-<br><br>
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <h3>🌦️ <a href="https://github.com/ggthedeveloper/VarshaPurvanumanAI">VarshaPurvanumanAI</a></h3>
-      <p><b>Climate AI • Monsoon Forecast Downscaling</b></p>
-      <p>
-        <a href="https://github.com/ggthedeveloper/VarshaPurvanumanAI"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
-        &nbsp;
-        <a href="https://varsha-purvanuman-ai.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-0070F3?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
-        &nbsp;
-        <img src="https://img.shields.io/badge/SIH%202026-MoES%20%2F%20IMD-f59e0b?style=flat-square" alt="SIH" />
-      </p>
-      <p><code>Python</code> • <code>FastAPI</code> • <code>React 19</code> • <code>PyTorch</code></p>
-    </td>
-    <td width="50%" align="center">
-      <h3>🚆 <a href="https://github.com/ggthedeveloper/RailSamanvayAI">RailSamanvayAI</a></h3>
-      <p><b>Operational AI • Railways Block Scheduling</b></p>
-      <p>
-        <a href="https://github.com/ggthedeveloper/RailSamanvayAI"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
-        &nbsp;
-        <img src="https://img.shields.io/badge/SIH%202026-Railways-f59e0b?style=flat-square" alt="SIH" />
-      </p>
-      <p><code>Python</code> • <code>Scikit-Learn</code> • <code>FastAPI</code> • <code>Optimization</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>🌊 <a href="https://github.com/ggthedeveloper/DrainSenseAI">DrainSenseAI</a></h3>
-      <p><b>Urban IoT • Flood Telemetry & Detection</b></p>
-      <p>
-        <a href="https://github.com/ggthedeveloper/DrainSenseAI"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
-        &nbsp;
-        <img src="https://img.shields.io/badge/Disaster-Prevention-0284c7?style=flat-square" alt="Disaster Tech" />
-      </p>
-      <p><code>Python</code> • <code>FastAPI</code> • <code>Signal Processing</code> • <code>ML</code></p>
-    </td>
-    <td width="50%" align="center">
-      <h3>🎮 <a href="https://github.com/ggthedeveloper/Space-Shooter-3D">Space-Shooter-3D</a></h3>
-      <p><b>Interactive 3D • Real-Time WebGL Arcade</b></p>
-      <p>
-        <a href="https://github.com/ggthedeveloper/Space-Shooter-3D"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
-        &nbsp;
-        <img src="https://img.shields.io/badge/3D-Simulation-7c3aed?style=flat-square" alt="Simulation" />
-      </p>
-      <p><code>Three.js</code> • <code>WebGL</code> • <code>JavaScript</code> • <code>Canvas</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>🗺️ <a href="https://github.com/ggthedeveloper/Smart-Route-Finder">Smart-Route-Finder</a></h3>
-      <p><b>Spatial GIS • Heuristic Pathfinding</b></p>
-      <p>
-        <a href="https://github.com/ggthedeveloper/Smart-Route-Finder"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
-        &nbsp;
-        <img src="https://img.shields.io/badge/Graph-Routing-10b981?style=flat-square" alt="Routing" />
-      </p>
-      <p><code>JavaScript</code> • <code>Graph Algorithms</code> • <code>Spatial GIS</code></p>
-    </td>
-    <td width="50%" align="center">
-      <h3>🪐 <a href="https://github.com/ggthedeveloper/Solar-System-Simulation-HNY-2026">Solar-System-3D</a></h3>
-      <p><b>Physics Simulation • N-Body Celestial Mechanics</b></p>
-      <p>
-        <a href="https://github.com/ggthedeveloper/Solar-System-Simulation-HNY-2026"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
-        &nbsp;
-        <img src="https://img.shields.io/badge/Orbital-Physics-ec4899?style=flat-square" alt="Physics" />
-      </p>
-      <p><code>Three.js</code> • <code>JavaScript</code> • <code>Orbital Dynamics</code></p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br>
-
-<!-- SECTION: OTHER PROJECTS (COLLAPSIBLE) -->
-<details>
-<summary><b>📂 View More Projects & Repositories (Click to expand)</b></summary>
+<details open>
+<summary><b>Click to expand / collapse repository directory</b></summary>
 <br>
 
 | Project | Domain | Stack | Link |
 |:---|:---|:---|:---:|
-| 🌾 **AgriSync** | AgriTech & IoT | `Python` `IoT Telemetry` | [Repository ↗](https://github.com/ggthedeveloper/AgriSync) |
-| 🌦️ **WeatherApp** | Meteorological Web | `React` `FastAPI` `REST` | [Repository ↗](https://github.com/ggthedeveloper/WeatherApp) |
-| 🏎️ **Car-Racing-3D** | Interactive 3D | `Three.js` `WebGL` `Physics` | [Repository ↗](https://github.com/ggthedeveloper/Car-Racing-3D) |
-| 💡 **AI-Study-Explainer** | EdTech & NLP | `Python` `Transformers` | [Repository ↗](https://github.com/ggthedeveloper/AI-Study-Explainer) |
-| 🧠 **AI-Study-Helper** | Educational Productivity | `Node.js` `Express` `AI` | [Repository ↗](https://github.com/ggthedeveloper/AI-Study-Helper) |
-| 🌿 **MoodMate-App** | Digital Health | `React` `Tailwind` `Node.js` | [Repository ↗](https://github.com/ggthedeveloper/MoodMate-App) |
-| 📋 **SRMS-Project** | Database Systems | `MySQL` `Express` `Node.js` | [Repository ↗](https://github.com/ggthedeveloper/SRMS-Project) |
-| 🧭 **YatraApp-Trip-Planner** | Travel Utility | `JavaScript` `API Integration` | [Repository ↗](https://github.com/ggthedeveloper/YatraApp-Trip-Planner) |
+| 🌦️ **VarshaPurvanumanAI** | Climate AI (SIH 2026 MoES/IMD) | `Python` `FastAPI` `React 19` | [Code ↗](https://github.com/ggthedeveloper/VarshaPurvanumanAI) • [Demo ↗](https://varsha-purvanuman-ai.vercel.app/) |
+| 🚆 **RailSamanvayAI** | Operational AI (Indian Railways SIH) | `Python` `Scikit-Learn` `FastAPI` | [Code ↗](https://github.com/ggthedeveloper/RailSamanvayAI) |
+| 🌊 **DrainSenseAI** | Urban IoT & Flood Telemetry | `Python` `FastAPI` `ML` | [Code ↗](https://github.com/ggthedeveloper/DrainSenseAI) |
+| 🎮 **Space-Shooter-3D** | Interactive 3D Combat Simulator | `Three.js` `WebGL` `Canvas` | [Code ↗](https://github.com/ggthedeveloper/Space-Shooter-3D) |
+| 🗺️ **Smart-Route-Finder** | Spatial Pathfinding Algorithms | `JavaScript` `Graph Theory` | [Code ↗](https://github.com/ggthedeveloper/Smart-Route-Finder) |
+| 🪐 **Solar-System-3D** | N-Body Gravitational Physics | `Three.js` `JavaScript` | [Code ↗](https://github.com/ggthedeveloper/Solar-System-Simulation-HNY-2026) |
+| 🌾 **AgriSync** | AgriTech & IoT Telemetry | `Python` `IoT Telemetry` | [Code ↗](https://github.com/ggthedeveloper/AgriSync) |
+| 🌦️ **WeatherApp** | Meteorological Web Application | `React` `FastAPI` `REST` | [Code ↗](https://github.com/ggthedeveloper/WeatherApp) |
+| 🏎️ **Car-Racing-3D** | 3D Interactive Driving Simulation | `Three.js` `WebGL` `Physics` | [Code ↗](https://github.com/ggthedeveloper/Car-Racing-3D) |
+| 💡 **AI-Study-Explainer** | EdTech & Pedagogical AI | `Python` `Transformers` | [Code ↗](https://github.com/ggthedeveloper/AI-Study-Explainer) |
+| 🧠 **AI-Study-Helper** | Educational Productivity Assistant | `Node.js` `Express` `AI` | [Code ↗](https://github.com/ggthedeveloper/AI-Study-Helper) |
+| 🌿 **MoodMate-App** | Digital Health & Wellness | `React` `Tailwind` `Node.js` | [Code ↗](https://github.com/ggthedeveloper/MoodMate-App) |
+| 📋 **SRMS-Project** | Student Record Management System | `MySQL` `Express` `Node.js` | [Code ↗](https://github.com/ggthedeveloper/SRMS-Project) |
+| 🧭 **YatraApp-Trip-Planner** | Multi-Day Travel Route Planner | `JavaScript` `API Integration` | [Code ↗](https://github.com/ggthedeveloper/YatraApp-Trip-Planner) |
 
 </details>
 
@@ -322,23 +242,34 @@
 
 <br>
 
-<!-- SECTION: CERTIFICATIONS -->
-<h3 id="certifications">📜 Verified Certifications & Credentials</h3>
+<!-- SECTION: CERTIFICATIONS (BADGES ONLY, NO TEXT BULLETS) -->
+<h3 id="certifications">📜 Verified Credentials & Certifications</h3>
 
-<details open>
-<summary><b>Click to expand / collapse verified credentials</b></summary>
-<br>
+<div align="center">
 
-- 🎖️ **MongoDB Certified Developer, Associate (C100DEV)** — *MongoDB* &nbsp;`MERN Stack` `MongoDB Architecture`
-- 🎖️ **HackerRank Skill Certification** — *HackerRank* &nbsp;`Problem Solving` `Coding Skills`
-- 🎖️ **Research Internship Certificate** — *Indian Institute of Technology (IIT), Bhubaneswar* &nbsp;`Machine Learning` `Deep Learning`
-- 🎖️ **100 Days of Code™: The Complete Python Pro Bootcamp** — *Udemy* &nbsp;`Python` `Data Science`
-- 🎖️ **MongoDB Overview: Core Concepts and Architecture** — *MongoDB*
-- 🎖️ **MongoDB Basics for Students** — *MongoDB*
-- 🎖️ **Campus to Corporate: What Recruiters Really Want** — *Coding Club SRMAP*
-- 🎖️ **Code for Connection Hackathon** — *Coding Club SRMAP*
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-Certified%20Developer%20(Associate)-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Associate" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving%20Verified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/IIT%20Bhubaneswar-Research%20Internship%20(ML%20%2F%20DL)-003366?style=for-the-badge&logo=googlescholar&logoColor=white" alt="IIT Bhubaneswar" />
+</p>
 
-</details>
+<p>
+  <img src="https://img.shields.io/badge/Udemy-100%20Days%20of%20Code%20(Python)-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-Core%20Architecture-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Architecture" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-Basics%20for%20Students-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Basics" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/SRMAP-Campus%20to%20Corporate-0284c7?style=for-the-badge&logo=codeforces&logoColor=white" alt="Campus to Corporate" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/SRMAP-Code%20for%20Connection-f59e0b?style=for-the-badge&logo=target&logoColor=white" alt="Code for Connection" />
+</p>
+
+</div>
 
 <br>
 
