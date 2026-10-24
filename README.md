@@ -62,7 +62,7 @@
       <p><b>🎓 Education:</b> B.Tech Computer Science @ <b>SRM University, AP</b></p>
       <p><b>🔬 Research:</b> Transformer Compression • <b>CoFi</b> Pruning • <b>QA-LoRA</b> Fine-Tuning</p>
       <p><b>⚡ Core Stack:</b> Python • PyTorch • FastAPI • React 19 • TypeScript • MongoDB</p>
-      <p><b>🌐 Real-World AI:</b> Climate Downscaling (SIH 2026 for MoES/IMD) • Railways Telemetry</p>
+      <p><b>🌐 Real-World AI:</b> Climate Downscaling (SIH 2026 for MoES/IMD) • Railways Telemetry • Route Management</p>
       <p><b>🎮 Visual Compute:</b> Real-Time WebGL & Three.js 3D Simulations</p>
     </td>
   </tr>
